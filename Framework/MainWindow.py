@@ -18,7 +18,7 @@ class EE_MainWindow(QMainWindow):
         self.setup_actions()
         self.setup_ui()
 
-        self.setMinimumSize(1024, 768)
+        self.setMinimumSize(1024, 700)
 
 
     def setup_actions(self):
